@@ -1,4 +1,4 @@
-# Numerical methods in Fractional calculus (20210531 ~ )
+# Numerical methods for Fractional derivative (20210531 ~ )
 - Study and code implementation of fractional derivative and integral
 
 
