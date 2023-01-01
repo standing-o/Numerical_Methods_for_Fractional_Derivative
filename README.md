@@ -1,6 +1,6 @@
 # Numerical methods for Fractional derivative
 - Study and Numerical implementation of fractional derivative and integral
-- Mar. 31, 2021 ~ Present
+- Mar. 31, 2021 ~ Jun. 31, 2021
 
 ## Reference
 ```
